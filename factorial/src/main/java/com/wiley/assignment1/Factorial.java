@@ -69,8 +69,7 @@ public class Factorial {
 		 
 		int result = 1;
 		//YOUR CODE STARTS HERE
-
-
+         //final commit
          //simple for loop, starts from 1..2..3..num
          for (int i = 1; i <= num; i++) {
              result = result * i;
